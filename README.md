@@ -1,3 +1,15 @@
+## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler (Tech Stack)
+
+| Kategori | Araçlar / Kütüphaneler | Amaç |
+| :--- | :--- | :--- |
+| **Ana Dil** | **Python** | Veri işleme, modelleme ve otomasyon. |
+| **Veri Manipülasyonu** | **Pandas**, **NumPy** | Veri temizliği, zaman serisi indeksleme ve sayısal işlemler. |
+| **Gelişmiş İstatistik** | **Statsmodels** | Temel zaman serisi analizi ve metrikler. |
+| **SARIMA Optimizasyonu** | **pmdarima** | En iyi SARIMA model parametrelerinin otomatik bulunması (AIC/BIC bazlı). |
+| **Makine Öğrenmesi (ML)** | **Prophet**, **Scikit-learn** | Modern forecasting ve hata metriklerinin (MAPE, RMSE) hesaplanması. |
+| **Derin Öğrenme (DL)** | **TensorFlow** (Keras) | LSTM model mimarisinin oluşturulması ve eğitimi (Veri kısıtlılığı kanıtı). |
+| **Görselleştirme** | **Matplotlib**, **Seaborn** | Trend, mevsimsellik ve nihai tahmin grafiklerinin oluşturulması. |
+
 # 🏆 Bir Türk KOBİ'sinde Endüstriyel Talep Tahmini: Klasik Zaman Serisi Analizinden Yapay Zeka Modellerine Bir Vaka Çalışması
 
 ## 🌟 Proje Özeti
