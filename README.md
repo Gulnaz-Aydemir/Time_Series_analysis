@@ -66,7 +66,7 @@ En iyi performansı gösteren SARIMA'nın, Gerçek Değerler'e ne kadar yaklaşt
 
 ***
 
-## LİSANS VE VERİ HAKLARI (COPYRIGHT AND DATA USAGE)
+## 🔒 LİSANS VE VERİ HAKLARI (COPYRIGHT AND DATA USAGE)
 
 Bu projede kullanılan veriler (MRC Asansör Mühendislik firmasına ait satış verileri) **firmanın mülkiyetindedir (Proprietary Data)**.
 
