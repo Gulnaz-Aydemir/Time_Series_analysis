@@ -63,3 +63,16 @@ En iyi performansı gösteren SARIMA'nın, Gerçek Değerler'e ne kadar yaklaşt
     ```
 2.  **Veri Dosyasını Hazırlayın:** Elle düzenlenmiş `MRC_Veri_Temiz.xlsx` dosyasını (Tarih, Urun_Kodu, Satis_Adedi sütunları ile) proje klasörüne yerleştirin.
 3.  **Kodu Çalıştırın:** `proje_sarima.py` dosyasını çalıştırarak modelin çıktısını alabilirsiniz.
+
+***
+
+## LİSANS VE VERİ HAKLARI (COPYRIGHT AND DATA USAGE)
+
+Bu projede kullanılan veriler (MRC Asansör Mühendislik firmasına ait satış verileri) **firmanın mülkiyetindedir (Proprietary Data)**.
+
+Bu GitHub deposunun kamuya açık olması, aşağıdaki hususları gerektirir:
+
+1.  **Veri Kısıtlılığı:** Orijinal veri seti **ticari sır** niteliği taşımakta olup, depo içinde yayınlanmamaktadır. Verilerin, proje kodları aracılığıyla dahi üçüncü taraflarca indirilmesi, kopyalanması veya ticari amaçlarla kullanılması **kesinlikle yasaktır.**
+2.  **Lisans:** Projenin tüm analizi, metodolojisi ve Python kodları (`proje_sarima.py`, vb.) **Gülnaz Aydemir**'e aittir. Projenin izinsiz çoğaltılması ve ticarileştirilmesi yasaktır.
+
+**Tüm Hakları Saklıdır (All Rights Reserved) © 2025**
