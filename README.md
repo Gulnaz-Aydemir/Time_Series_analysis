@@ -1,14 +1,12 @@
-## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler (Tech Stack)
+### 🚀 Teknik Etiketler
 
-| Kategori | Araçlar / Kütüphaneler | Amaç |
-| :--- | :--- | :--- |
-| **Ana Dil** | **Python** | Veri işleme, modelleme ve otomasyon. |
-| **Veri Manipülasyonu** | **Pandas**, **NumPy** | Veri temizliği, zaman serisi indeksleme ve sayısal işlemler. |
-| **Gelişmiş İstatistik** | **Statsmodels** | Temel zaman serisi analizi ve metrikler. |
-| **SARIMA Optimizasyonu** | **pmdarima** | En iyi SARIMA model parametrelerinin otomatik bulunması (AIC/BIC bazlı). |
-| **Makine Öğrenmesi (ML)** | **Prophet**, **Scikit-learn** | Modern forecasting ve hata metriklerinin (MAPE, RMSE) hesaplanması. |
-| **Derin Öğrenme (DL)** | **TensorFlow** (Keras) | LSTM model mimarisinin oluşturulması ve eğitimi (Veri kısıtlılığı kanıtı). |
-| **Görselleştirme** | **Matplotlib**, **Seaborn** | Trend, mevsimsellik ve nihai tahmin grafiklerinin oluşturulması. |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0082E5?style=flat-square&logo=facebook&logoColor=white)
+![SARIMA](https://img.shields.io/badge/SARIMA-9900CC?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-90CAF9?style=flat-square&logo=matplotlib&logoColor=white)
 
 # 🏆 Bir Türk KOBİ'sinde Endüstriyel Talep Tahmini: Klasik Zaman Serisi Analizinden Yapay Zeka Modellerine Bir Vaka Çalışması
 
