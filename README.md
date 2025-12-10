@@ -8,7 +8,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-90CAF9?style=flat-square&logo=matplotlib&logoColor=white)
 
-# 🏆 Bir Türk KOBİ'sinde Endüstriyel Talep Tahmini: Klasik Zaman Serisi Analizinden Yapay Zeka Modellerine Bir Vaka Çalışması
+# 🏆 Bir Türk KOBİ'sinde Endüstriyel Talep Tahmini: Klasik Zaman Serisi Analizinden Modern Gelişmiş İstatistiksel ve Yapay Zeka modellerine Bir Vaka Çalışması
 
 ## 🌟 Proje Özeti
 
